@@ -1,24 +1,8 @@
 # simple-social-frontend
 
-## Project setup
+## Port
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+5173
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##留言功能部分尚未完成
